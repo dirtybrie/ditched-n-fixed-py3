@@ -1,4 +1,5 @@
 # pw-crackers
+# hashcrack.py
 To use the script:
 python -m pip install hashlib
 cd /in/to/directory/pw-crackeers
@@ -30,30 +31,30 @@ ex:
   $touch password.txt
   $mousepad password.txt
   -type in whatever you want just include the password
-      asdAwR4rw$
-      war#q$wws
-      sdwr$we
-      welcom
-      (#R$HNKSDN
-      SDHL#id
-      S_Di33
-      SD(#*REHFC
-      D*E#RH
-      asdasdu738hr
-      adsfffaueir7
-      3947ryehkaf
-      asd
-      afseerr05u8
-      asdfjaiol3ehu
-      asfiealyl9
-      KEVI
-      EIRHHNC
-      LSJDRE#UR
-      JNCXCSOII
-      OELURJIELKDJ
-      ESCh93
-      erfdksuE
-      SDJIOELDJUE
-      Welcome
+      asdAwR4rw$ <br/>
+      war#q$wws  <br/>
+      sdwr$we    <br/>
+      welcom <br/>
+      (#R$HNKSDN<br/>
+      SDHL#id<br/>
+      S_Di33<br/>
+      SD(#*REHFC<br/>
+      D*E#RH<br/>
+      asdasdu738hr<br/>
+      adsfffaueir7<br/>
+      3947ryehkaf<br/>
+      asd<br/>
+      afseerr05u8<br/>
+      asdfjaiol3ehu<br/>
+      asfiealyl9<br/>
+      KEVI<br/>
+      EIRHHNC<br/>
+      LSJDRE#UR<br/>
+      JNCXCSOII<br/>
+      OELURJIELKDJ<br/>
+      ESCh93<br/>
+      erfdksuE<br/>
+      SDJIOELDJUE<br/>
+      Welcome<br/>
 
 ![alt text](https://github.com/dirtybrie/ditched-n-fixed-py3/blob/base/pw-crakers/hashcrack.png?raw=true)
