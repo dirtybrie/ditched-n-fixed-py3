@@ -6,7 +6,7 @@ python hashcrack.py
 
 This script only supports cracking MD5 hashes see the hashlib module at https://docs.python.org/3/library/hashlib.html
 for adding other hashes to crack
-
+<br />
 1.You can practice with the templates privided -or-
 2.Create your own MD5 Hash and Dictionary text.
 
