@@ -18,7 +18,7 @@ try:
 except ImportError:
 	print ('[!] Failed to Import pygeoip')
 	try:
-		choice = raw_input('[*] Attempt to Auto-install pygeoip? [y/N] ')
+		choice = input('[*] Attempt to Auto-install pygeoip? [y/N] ')
 	except KeyboardInterrupt:
 		print ('\n[!] User Interrupted Choice')
 		sys.exit(1)
@@ -58,7 +58,7 @@ class Locator(object):
 		if not os.path.isfile(self.datfile):
 			print ('[!] Default Database Detection Failed')
 			try:
-				choice = raw_input('[*] Attempt to Auto-install Database? [y/N] ')
+				choice = input('[*] Attempt to Auto-install Database? [y/N] ')
 			except KeyboardInterrupt:
 				print ('\n[!] User Interrupted Choice')
 				sys.exit(1)
