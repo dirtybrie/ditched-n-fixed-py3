@@ -1,12 +1,21 @@
 #! /usr/bin/python
 
-#This script is by Defalt, He wrote this in python2, few changes made like indentation and print lines -db
-#Hello fellow hackers! My name is Defalt
-#I built a very basic version of this tool a long time ago and recently did a re-write
-#The first re-write had some awkward usage of the argparse module, so this update is going to fix it
-#Original version: http://pastebin.com/J5NLnThL
-#This will query the MaxMind database to get an approximate geolocation of an IP address
-#Happy hacking! -Defalt
+# -from db:
+# This script is by Defalt, He wrote this in python2, few changes made like indentation, input() anb print -db
+# be sure to install pygeoip via pip.
+# If you do not have the pygeoip GeoLiteCity.dat file head over to https://github.com/mbcc2006/GeoLiteCity-data
+# then put it in/make this directory: usr/share/GeoIP
+# If for some reason that repository is gone and you can't find it in maxminds database
+# Just contact me and we can figure it out how to get it to you.
+#
+# xxxxxxxxxxxxxxxxxxxx FROM THE AUTHOR xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Hello fellow hackers! My name is Defalt
+# I built a very basic version of this tool a long time ago and recently did a re-write
+# The first re-write had some awkward usage of the argparse module, so this update is going to fix it
+# Original version: http://pastebin.com/J5NLnThL
+# This will query the MaxMind database to get an approximate geolocation of an IP address
+# Happy hacking! -Defalt
+# xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 import sys
 import socket
