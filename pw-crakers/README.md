@@ -30,31 +30,6 @@ ex:<br/>
   44a1819c9618be3c0001ae0f2bf010e9<br/>
   $touch password.txt<br/>
   $mousepad password.txt<br/>
-  -type in whatever you want just include the password<br/>
-      asdAwR4rw$ <br/>
-      war#q$wws  <br/>
-      sdwr$we    <br/>
-      welcom <br/>
-      (#R$HNKSDN<br/>
-      SDHL#id<br/>
-      S_Di33<br/>
-      SD(#*REHFC<br/>
-      D*E#RH<br/>
-      asdasdu738hr<br/>
-      adsfffaueir7<br/>
-      3947ryehkaf<br/>
-      asd<br/>
-      afseerr05u8<br/>
-      asdfjaiol3ehu<br/>
-      asfiealyl9<br/>
-      KEVI<br/>
-      EIRHHNC<br/>
-      LSJDRE#UR<br/>
-      JNCXCSOII<br/>
-      OELURJIELKDJ<br/>
-      ESCh93<br/>
-      erfdksuE<br/>
-      SDJIOELDJUE<br/>
-      Welcome<br/>
+  Put in whatever you want just be sure to include the password
 
 ![alt text](https://github.com/dirtybrie/ditched-n-fixed-py3/blob/base/pw-crakers/hashcrack.png?raw=true)
